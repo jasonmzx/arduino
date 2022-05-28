@@ -1,5 +1,5 @@
 # Distance Sensitive Indicator 
-## (improper title: The Goldie Lox Machine)
+## (The Goldie Lox Machine)
 
 This contraption basically senses an object with an Ultrasonic sensor, when the object is deemed to far, it displays the caption ` TOO FAR ` message (along with some custom text manip), when the object is detected to be too close, it will display ` TOO CLOSE ` and at the sweet spot (hence the name) it will display a success message along with a low-medium frequency buzzing from a passive buzzer.
 
@@ -30,5 +30,12 @@ Picture of the setup for reference:
 * The 2 other functions are simply caption formatters for the LCD display (Wether it blinks random characters at each end, or scrolls horizontally)
 * Buzzer & Ultrasonic sensor wrapper functions are built-in by default. (No libs for those)
 
-## This was my first legitmate arduino project. Had lots of fun with it. :-D
+## Ressources that helped me alot:
+
+[Arduino's LiquidCrystal Reference](https://www.arduino.cc/reference/en/libraries/liquidcrystal/)
+[Ultrasonic Sensor HC-SR04 and Arduino Tutorial](https://www.youtube.com/watch?v=ZejQOX69K5M)
+[LCD Display Arduino Tutorial by: Hamed Adefuwa (great tut for the LCD)](https://www.youtube.com/watch?v=XkAUKbliHWY)
+[Passive Buzzer Song: "Take on Me" By A-Ha! (create.arduino.cc)](https://create.arduino.cc/projecthub/GeneralSpud/passive-buzzer-song-take-on-me-by-a-ha-0f04a8)
+
+### This was my first legitmate arduino project. Had lots of fun with it. :-D
 
