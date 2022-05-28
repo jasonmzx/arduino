@@ -21,11 +21,14 @@ Rough drawing, but replicates the wiring structure.
 <br></br>
 ![Hardware Diagram](./hardware_diagram.png)
 
+Picture of the setup for reference:
+![Real Picture](./snap1.png)
+
 ## Code setup:
 
 * Only using the LiquidCrystal library for adding high-level functionality to the otherwise low-level LCD display.
 * The 2 other functions are simply caption formatters for the LCD display (Wether it blinks random characters at each end, or scrolls horizontally)
 * Buzzer & Ultrasonic sensor wrapper functions are built-in by default. (No libs for those)
 
-This was my first legitmate arduino project. Had lots of fun with it.
+## This was my first legitmate arduino project. Had lots of fun with it. :-D
 
