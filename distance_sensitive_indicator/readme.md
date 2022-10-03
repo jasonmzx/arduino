@@ -13,7 +13,7 @@ Here's a small showcase:
 | 830 Tie-Points Breadboard   | Breadboard for connecting components to power loop & UNO pins   |
 | Passive Buzzer      | Used to generate a tone at a certain frequency (using `tone()` & `noTone()` built-ins)       |
 | LCD1602 Module (with pin header)      | LCD Display used to tell the user if their distance was acceptable or not.      |
-| Ultrasonic Sensor     | Used to detect the distance of objects directly in-line with the sensor (At varying distances)   |
+| Ultrasonic Sensor     | Used to detect the distance of objects directly in-line with the sensor (At varying distances) , used `pulseIn()` built-in   |
 | Potentiometer 10K | The potentio-meter was used to adjust the contrast on the LCD display's screen, this was connected to the V0 pin of the LCD |
 
 ## Hardware Diagram: 
