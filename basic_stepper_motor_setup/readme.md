@@ -34,9 +34,9 @@ Picture of the setup for reference:
 
 ## Ressources that helped me:
 
-[How To Control a Stepper Motor with A4988 Driver and Arduino (How to Mechatronics)](https://www.youtube.com/watch?v=5CmjB4WF5XA)
-[Mr Innovative A9488 nema 17 tutorial](https://www.youtube.com/watch?v=_5H7ibWQgXo)
-[My question about VGD power supply on electrical engineering stack exchange](https://electronics.stackexchange.com/questions/636030/how-do-i-hook-up-my-power-supply-to-an-outlet)
+[How To Control a Stepper Motor with A4988 Driver and Arduino (How to Mechatronics)](https://www.youtube.com/watch?v=5CmjB4WF5XA) <br>
+[Mr Innovative A9488 nema 17 tutorial](https://www.youtube.com/watch?v=_5H7ibWQgXo) <br>
+[My question about VGD power supply on electrical engineering stack exchange](https://electronics.stackexchange.com/questions/636030/how-do-i-hook-up-my-power-supply-to-an-outlet) <br>
 
 ### I'm releasing new projects involving a stepper motor so I wanted to get one setup and familiarized. 
 
