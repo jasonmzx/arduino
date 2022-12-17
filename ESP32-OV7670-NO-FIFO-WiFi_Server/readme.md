@@ -18,7 +18,7 @@ Here's a small showcase:
 | Mini Breadboard | n/a | n/a |
 | 2x Resistors | I tried lots of different resistances; 5.1k , 4.7k , 4k & 1k for the Resistors on the I2S output pins | n/a |
 | Micro-USB Cable **with Data Transfer** | Note: Lots of android phone chargers don't support data transfer only power transfer | n/a |
-
+<br></br>
 ##Diagrams:
 
 ##Simplified Circuit Diagram (ESP32 connections with OV7670)
