@@ -5,10 +5,10 @@
 - This attempt **wasn't** a success due to the poor quality of bitmap that the OV7670 was capturing & displaying.
 - Nevertheless, was a great learning experience and lots of fun!
 
-Here's a video small showcase:
+Here's a 1 Minute-long Video showcase:
 [https://youtu.be/EvHdvr4vhDo](https://youtu.be/EvHdvr4vhDo)
 
-###Picture of Canada Dry Ginger-Ale Soda Can:
+### Picture of Canada Dry Ginger-Ale Soda Can:
 ![Soda Can](./can_of_soda.png)
 
 
@@ -22,14 +22,14 @@ Here's a video small showcase:
 | 2x Resistors | I tried lots of different resistances; 5.1k , 4.7k , 4k & 1k for the Resistors on the I2S output pins | n/a |
 | Micro-USB Cable **with Data Transfer** | Note: Lots of android phone chargers don't support data transfer only power transfer | n/a |
 
-##Some Pictures of the Hardware:
+## Some Pictures of the Hardware:
 ![Camera Close Up](./ov7670_pins_closeup.jpg)
 ![Hardware general](./hardware_pic.jpg)
 
-##Diagrams:
+## Diagrams:
 
-##Simplified Circuit Diagram (ESP32 connections with OV7670)
+## Simplified Circuit Diagram (ESP32 connections with OV7670)
 ![Simplified Circuit Diagram](./Simplified_ESP32_OV_7670_No_Fifo.png)
 
-##Web Connectivity Diagram (ESP32 running HTTP Server & Client connecting via IPv4 localhost IP)
+## Web Connectivity Diagram (ESP32 running HTTP Server & Client connecting via IPv4 localhost IP)
 ![Web Connectivity](./Web_connectivity_diagram.png)
