@@ -5,8 +5,11 @@
 - This attempt **wasn't** a success due to the poor quality of bitmap that the OV7670 was capturing & displaying.
 - Nevertheless, was a great learning experience and lots of fun!
 
-Here's a small showcase:
+Here's a video small showcase:
 [https://youtu.be/EvHdvr4vhDo](https://youtu.be/EvHdvr4vhDo)
+
+###Picture of Canada Dry Ginger-Ale Soda Can:
+![Soda Can](./can_of_soda.png)
 
 
 ## Components I used:
@@ -18,7 +21,11 @@ Here's a small showcase:
 | Mini Breadboard | n/a | n/a |
 | 2x Resistors | I tried lots of different resistances; 5.1k , 4.7k , 4k & 1k for the Resistors on the I2S output pins | n/a |
 | Micro-USB Cable **with Data Transfer** | Note: Lots of android phone chargers don't support data transfer only power transfer | n/a |
-<br/>
+
+##Some Pictures of the Hardware:
+![Camera Close Up](./ov7670_pins_closeup.jpg)
+![Hardware general](./hardware_pic.jpg)
+
 ##Diagrams:
 
 ##Simplified Circuit Diagram (ESP32 connections with OV7670)
